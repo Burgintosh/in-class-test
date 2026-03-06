@@ -8,3 +8,7 @@ Put names here:
     - Messing up repos est.2026
 3. Diego Cardenas
     - Nintendo is suing the U.S. Government
+ 
+4. Joshua Rios
+    - The cake is a lie.
+  
