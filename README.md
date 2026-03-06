@@ -6,3 +6,5 @@ Put names here:
 
 2. Jacob Braunschweiger
     - Messing up repos est.2026
+3. Diego Cardenas
+    - Nintendo is suing the U.S. Government
