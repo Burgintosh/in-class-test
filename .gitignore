@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 .vs
 .DS_Store
 .vscode
+=======
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/slnx.sqlite
+/.vs
+>>>>>>> d71088171f006b588d65f7cf01bca28aae693f22
