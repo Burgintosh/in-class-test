@@ -1,0 +1,17 @@
+Put names here:
+
+1. Burgess Doan
+    - causing problems since {year}. 
+    - I here by resign form class, please give me an F
+
+2. Jacob Braunschweiger
+    - Messing up repos est.2026
+3. Diego Cardenas
+    - Nintendo is suing the U.S. Government
+
+    Joshua Moran
+    - MGS 4 coming to PC is life changing.
+ 
+4. Joshua Rios
+    - The cake is a lie.
+  
